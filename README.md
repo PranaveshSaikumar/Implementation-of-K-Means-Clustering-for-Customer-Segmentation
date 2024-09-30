@@ -74,6 +74,7 @@ plt.title("Customer Segments")
 ## Output:
 
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/b6d05d6a-240a-4363-a3ec-930baf12b706)
+<br><br>
 ### y_pred:
 ![image](https://github.com/Sajetha13/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/138849316/4d502d17-a83c-4478-9e03-9e2d721d8780)
 ### cluster:
